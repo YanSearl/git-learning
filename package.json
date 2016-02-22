@@ -1,0 +1,15 @@
+{
+  "name": "richard-mod",
+  "version": "0.0.1",
+  "description": "test mod for npm learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "npm-learning"
+  ],
+  "author": "richard",
+  "license": "MIT"
+}
